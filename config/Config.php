@@ -2,9 +2,9 @@
 
 define('E_MAIL_ADMIN','admin@example.com');
 define('SERVER','localhost');
-define('USER','root');
+define('USER','');
 define('PASSWORD','');
-define('DB','codeskills');
+define('DB','');
 define('WITRYNA','http://localhost/aplikacja/');
 
 function __autoload($className){ // funkcja zaczytuje klasy zaczytuje pliki 
