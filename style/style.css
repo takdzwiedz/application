@@ -1,0 +1,133 @@
+body {
+    
+    margin: 10px 25px;
+
+    
+}
+
+#modal {
+    
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    color: white;
+    background-color: hsla(0,0%,0%,0.90);
+    display: none;
+    
+}
+
+#dod {
+    
+    max-height: 610px;
+    overflow: auto;
+    margin: 20px auto;
+    width: 35%;
+    border: 1px solid white;
+    border-radius: 3px;
+    padding: 25px;
+    display: none;
+    
+}
+
+#modyfikacja_danych {
+    
+    display: none;
+    
+}
+
+h2 {
+    text-align: center
+}
+
+#divForm {
+    
+    width: 250px;
+    margin: 100px auto;
+   
+}
+
+
+/*body {
+    
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    height: 95vh;
+    background-color: lightgoldenrodyellow;
+    font-family: Tahoma, sans-serif;
+}
+
+fieldset {
+    
+    background-color: rgb(232, 232, 92);
+    color: rgb(162, 162, 66);
+    border: 2px solid rgb(162, 162, 66);
+    border-radius: 10px;
+    text-align: center;
+    webkit-box-shadow: 21px 25px 34px -1px rgba(0,0,0,0.75);
+    moz-box-shadow: 21px 25px 34px -1px rgba(0,0,0,0.75);
+    box-shadow: 21px 25px 34px -1px rgba(0,0,0,0.75);
+}
+
+.zaloz_konto {
+    
+    text-align: left;
+}
+
+
+
+input {
+    
+    border-radius: 3px;
+    margin: 3px;
+    
+}
+
+a:link {
+    
+    color: rgb(82, 82, 35);
+    text-decoration: none;
+    
+}
+
+a:visited {
+    
+    color: rgb(82, 82, 35);
+
+    
+}
+
+a:hover {
+    
+    background-color: rgb(162, 162, 66);
+    color: lightgoldenrodyellow;
+    
+}
+
+.error {
+    
+    font-weight: bold;
+    color: hotpink;
+
+}
+
+div {
+    
+    text-align: center;
+    
+}
+
+iframe {
+    
+    webkit-box-shadow: 21px 25px 34px -1px rgba(0,0,0,0.75);
+    moz-box-shadow: 21px 25px 34px -1px rgba(0,0,0,0.75);
+    box-shadow: 21px 25px 34px -1px rgba(0,0,0,0.75);
+    border-radius: 4px;
+}
+
+h1 {
+    text-shadow:5px 5px 10px gray;
+}
+*/
